@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Pricing
-permalink: /pricing/
+title: Investment
+permalink: /investment/
 ---
 <div class="container" style="padding:0px">
 <div class="row" >
