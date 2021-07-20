@@ -12,7 +12,7 @@ permalink: /investment/
   </div>
 <div class="row" data-aos="fade-up" style="margin:0px">
 <br>
-<h3 style="text-align-center">Packages</h3>
+<h3 style="text-align-center">Wedding Packages</h3>
 <hr style="width:50%">
 <br>
 <div class="col-sm-6">
@@ -27,17 +27,17 @@ permalink: /investment/
 -A beat matched Teaser<br>
 -An exclusive online Gallery saved on the cloud </p>
 <hr>
-<p>₹42,000</p>
+<p>₹42,000 + GST(18%)</p>
 </div>
 </div>
 <br>
-<div class="row" data-aos="fade-up" style="margin:0px">
+<div class="row" data-aos="fade-up" style="margin:0px;background-color: #f7f7f7">
 <div class="col-sm-6  col-sm-push-6" >
 <img class="img-responsive" alt="" src="/images/Wedding/best-premium-candid-photographer-SrikarRao-Bangalore-Anusha-Abhishek/best-premium-candid-photographer-SrikarRao-Bangalore-109.jpg
 "  style="margin:auto 0 auto auto">
 </div>
-<div class="col-sm-6 col-sm-pull-6" style=" text-align:left;padding:0% 4% 4% 4%">
-<h3 >Its a Steal</h3>
+<div class="col-sm-6 col-sm-pull-6" style=" text-align:left;padding:0% 4% 4% 4%;">
+<h3 >Its a Steal #Most Popular</h3>
 <p>-Full day Wedding coverage<br>
 -2 Photographers<br>
 -Average of 500-550 post produced pictures<br>
@@ -45,7 +45,7 @@ permalink: /investment/
 -An exclusive online gallery saved on the cloud<br>
 -A set of 25 matte photo prints</p>
 <hr>
-<p class="pricing-packages__price">₹62,000</p>
+<p class="pricing-packages__price">₹62,000 + GST(18%)</p>
 </div>
 </div>
 <br>
@@ -63,7 +63,7 @@ permalink: /investment/
 -An exclusive online gallery saved on the cloud<br>
 -A set of 50 Photo Prints</p>
 <hr>
-<p>₹82,000/-</p>
+<p>₹82,000 + GST(18%)</p>
 </div>
 </div>
 </div>
