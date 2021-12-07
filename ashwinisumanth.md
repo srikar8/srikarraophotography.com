@@ -14,6 +14,6 @@ permalink: /ashwinisumanth/
 <br>
 <div  class="col-md-6" data-aos="fade-up" style="text-align:left; float:none;margin:auto;">
 <p style="text-align:center"><b>Photographer:</b> Srikar Rao & Team</p>
-<p style="text-align:center"><b>Contact: +91 81212 23231</p>
+<p style="text-align:center"><b>Contact:</b> +91 81212 23231</p>
 <br>
 </div>
