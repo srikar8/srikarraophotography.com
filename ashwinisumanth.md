@@ -2,7 +2,7 @@
 layout: default
 title: " Ashwini Weds Sumanth "
 description: " Ashwini Weds  Sumanth"
-image: "/images/Ashwini_&_Sumanth_Thumbnail.jpg"
+image: "/images/Ashwini_Sumanth.jpg"
 permalink: /ashwinisumanth/
 ---
 <br>
