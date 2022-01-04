@@ -24,10 +24,9 @@ permalink: /investment/
 <p>-Full day Wedding coverage<br>
 -1 Photographer<br>
 -Average of 300-350 post produced pictures<br>
--A beat matched Teaser<br>
 -An exclusive online Gallery saved on the cloud </p>
 <hr>
-<p>₹42,000 + GST(18%)</p>
+<p>₹30,000 + GST(18%)</p>
 </div>
 </div>
 <br>
@@ -39,13 +38,13 @@ permalink: /investment/
 <div class="col-sm-6 col-sm-pull-6" style=" text-align:left;padding:0% 4% 4% 4%;">
 <h3 >Its a Steal #Most Popular</h3>
 <p>-Full day Wedding coverage<br>
--2 Photographers<br>
--Average of 500-550 post produced pictures<br>
--A beat matched Teaser <br>
+-1 Photographer & 1 Cinematographer <br>
+-Average of 300-350 post produced pictures<br>
+-A short wedding film <br>
 -An exclusive online gallery saved on the cloud<br>
 -A set of 25 matte photo prints</p>
 <hr>
-<p class="pricing-packages__price">₹62,000 + GST(18%)</p>
+<p class="pricing-packages__price">₹65,000 + GST(18%)</p>
 </div>
 </div>
 <br>
@@ -57,13 +56,14 @@ permalink: /investment/
 <div class="col-sm-6" style=" text-align:left; padding:0% 4% 4% 4%">
 <h3 >Killer Deal</h3>
 <p>-Full day Wedding coverage<br>
--3 Photographers<br>
--Average of 700-750 Post produced pictures<br>
--A beat matched Teaser<br>
+-2 Photographers & 1 Cinematographer<br>
+-Average of 550-600 Post produced pictures<br>
+-A short wedding film<br>
 -An exclusive online gallery saved on the cloud<br>
--A set of 50 Photo Prints</p>
+-A set of 25 matte Photo Prints<br>
+-A Pressbook Album</p>
 <hr>
-<p>₹82,000 + GST(18%)</p>
+<p>₹95,000 + GST(18%)</p>
 </div>
 </div>
 </div>
@@ -93,7 +93,7 @@ We will meet you anywhere even in the middle of the ocean.</p>
 <hr style="width:50%">
 <h3>What kind of gear do you use?</h3>
 <p>The very best in the market. <br>
-Generally a Sony A73 and a Nikon D750 with a couple of high speed lenses and ample lighting equipment.</p>
+Generally a Nikon mirroless Z6ii and a Nikon D750 with a couple of high speed lenses and ample lighting equipment.</p>
 <hr style="width:50%">
 <h3>Do I have to order prints through you?</h3>
 <p>It comes inclusive with the second and third package, but if you need more yes you can order through me.</p>
