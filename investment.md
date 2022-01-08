@@ -36,7 +36,7 @@ permalink: /investment/
 "  style="margin:auto 0 auto auto">
 </div>
 <div class="col-sm-6 col-sm-pull-6" style=" text-align:left;padding:0% 4% 4% 4%;">
-<h3 >Its a Steal #Most Popular</h3>
+<h3 >Its a Steal</h3>
 <p>-Full day Wedding coverage<br>
 -1 Photographer & 1 Cinematographer <br>
 -Average of 300-350 post produced pictures<br>
@@ -54,7 +54,7 @@ permalink: /investment/
 "  style="margin:auto 0 auto auto">
 </div>
 <div class="col-sm-6" style=" text-align:left; padding:0% 4% 4% 4%">
-<h3 >Killer Deal</h3>
+<h3 >Killer Deal #Most Popular </h3>
 <p>-Full day Wedding coverage<br>
 -2 Photographers & 2 Cinematographer<br>
 -Average of 550-600 Post produced pictures<br>
