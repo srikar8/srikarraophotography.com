@@ -40,7 +40,7 @@ permalink: /investment/
 <p>-Full day Wedding coverage<br>
 -1 Photographer & 1 Cinematographer <br>
 -Average of 300-350 post produced pictures<br>
--A short wedding film <br>
+-A wedding film 5-10 mins<br>
 -An exclusive online gallery saved on the cloud<br>
 -A set of 25 matte photo prints</p>
 <hr>
@@ -56,14 +56,13 @@ permalink: /investment/
 <div class="col-sm-6" style=" text-align:left; padding:0% 4% 4% 4%">
 <h3 >Killer Deal</h3>
 <p>-Full day Wedding coverage<br>
--2 Photographers & 1 Cinematographer<br>
+-2 Photographers & 2 Cinematographer<br>
 -Average of 550-600 Post produced pictures<br>
--A short wedding film<br>
+-A wedding film 10-15 mins<br>
 -An exclusive online gallery saved on the cloud<br>
 -A set of 25 matte Photo Prints<br>
--A Pressbook Album</p>
 <hr>
-<p>₹95,000 + GST(18%)</p>
+<p>₹1,30,000 + GST(18%)</p>
 </div>
 </div>
 </div>
