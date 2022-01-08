@@ -60,7 +60,7 @@ permalink: /investment/
 -Average of 550-600 Post produced pictures<br>
 -A wedding film 10-15 mins<br>
 -An exclusive online gallery saved on the cloud<br>
--A set of 25 matte Photo Prints<br>
+-A set of 25 matte Photo Prints</p>
 <hr>
 <p>₹1,30,000 + GST(18%)</p>
 </div>
