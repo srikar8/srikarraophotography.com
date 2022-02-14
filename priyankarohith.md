@@ -1,6 +1,6 @@
 ---
 layout: default
-title: " Priyanka & Rohith Wedding #ROhitonPRI "
+title: " Priyanka & Rohith Wedding Live #ROhitonPRI "
 description: " Priyanka & Rohith Wedding #ROhitonPRI"
 image: "/images/priyankarohith.jpg"
 permalink: /priyankarohith/
