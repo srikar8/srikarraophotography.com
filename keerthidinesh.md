@@ -21,4 +21,3 @@ permalink: /keerthidinesh/
 <br>
 </div>
 
-https://www.youtube.com/embed/D0o0KKrUPsY
