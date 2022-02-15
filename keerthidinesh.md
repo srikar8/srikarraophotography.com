@@ -1,7 +1,7 @@
 ---
 layout: default
-title: " Keerthi & Dinesh Wedding "
-description: " Keerthi & Dinesh Wedding "
+title: " Keerthi & Dinesh Wedding Live"
+description: " Keerthi & Dinesh Wedding Live "
 image: "/images/keerthiwedsdinesh.jpg"
 permalink: /keerthidinesh/
 ---
