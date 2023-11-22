@@ -7,7 +7,7 @@ permalink: /himarishabh/
 ---
 <br>
 <br>
-<h1>Hima & Rishabh Wedding </h1>
+<h1>Hima & Rishabh Wedding Live on Nov 29th </h1>
 <br>
 <br>
 <div class="row">
