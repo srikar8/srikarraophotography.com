@@ -7,9 +7,12 @@ permalink: /akhilgeethika/
 ---
 <br>
 <br>
-<h1>Akhil & Geethika Engagement Ceremony Live </h1>
+<h1>Akhil & Geethika</h1>
+<h1>Engagement Ceremony Live</h1>
 <br>
+<div class="row">
 <img src="/images/akhilgeethika.jpg" alt="Akhil & Geethika" width="560">
+</div>
 <br>
 <div class="row">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GQMXxAQag2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
