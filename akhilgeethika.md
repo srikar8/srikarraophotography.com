@@ -18,6 +18,6 @@ permalink: /akhilgeethika/
 <br>
 <div  class="col-md-6" data-aos="fade-up" style="text-align:left; float:none;margin:auto;">
 <p style="text-align:center"><b>Photographer:</b> Srikar Rao & Team</p>
-<p style="text-align:center"><b>Contact:</b> +1 (470) 738 4285</p>
+<p style="text-align:center"><b>Contact:</b> +1 (415) 562 5623</p>
 <br>
 </div>
